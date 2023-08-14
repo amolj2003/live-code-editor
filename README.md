@@ -1,3 +1,8 @@
 <html>
-  <image src="1.jpeg"></image>
+  <head>
+  </head>
+    <body>
+      <image src="1.jpeg"></image>
+    </body>
+  
 </html>
